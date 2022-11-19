@@ -31,7 +31,7 @@ If you want to go to the Social Media Marketing section for example, you can cli
 For reference, this is what the website should look like:  
 
 ```md
-![screenshot of Horiseon website](starter/assets/images/HoriseonScreenshot.png)
+![alt text](starter/assets/images/HoriseonScreenshot.png)
 ```
 
 
