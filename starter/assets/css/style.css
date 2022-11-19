@@ -9,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* HEADER */
+/* HEADER START*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,19 +42,23 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* HEADER END */
 
 
+/* MAIN START*/
 a {
+    
     color: #ffffff;
     text-decoration: none;
 }
 
-/* MAIN SECTION */
 p {
+    
     font-size: 16px;
 }
 
-.hero {
+#cover-image {
+    
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -64,11 +68,14 @@ p {
 }
 
 .float-left {
+    /* Positioning image  to the left of its container */
+
     float: left;
     margin-right: 25px;
 }
 
 .float-right {
+    /* Positioning image to the right of its container */
     float: right;
     margin-left: 25px;
 }
@@ -124,8 +131,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* MAIN END */
 
-/* FOOTER */
+/* FOOTER START */
 .footer {
     padding: 30px;
     clear: both;
@@ -136,3 +144,4 @@ p {
 .footer h6 {
     font-size: 20px;
 }
+/* FOOTER END */
