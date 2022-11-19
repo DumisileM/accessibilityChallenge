@@ -2,36 +2,42 @@
 
 ## Description 
 
-This is a website for Horiseon, an online and digital marketing agency here to help brands and companies with social media marketing, managing their online reputation and search engine optimization.  
+This is a webpage for Horiseon, an online and digital marketing agency here to help brands and companies with social media marketing, managing their online reputation and search engine optimization.  
 
 In the latest iteration of this webiste, we have endeavoured to improve the accessibility of the website. The main motivation for this was to provide all users with a positive experience whilst browsing  the website.
 
 ## Installation
+To get the application on your local workspace follow these simple steps:
 
+To start, clone this repository by clicking the green 'Code' button then copy the link (HTTPS or SSH)
+on your local terminal or command prompt, navigate to a directory you want to save this code in using the cd command e.g.:
+```
+cd projects_directory
+```
+
+To clone the repo type git clone followed by the link you copied. e.g.:
+```
+git clone https://github.com/DumisileM/accessibilityChallenge
+```
 
 
 
 
 ## Usage 
+The website is povides information on Horiseon and the different services they offer. 
+To navigate, the website you read left to right, top to bottom. The top navigation bar contains links that are shortcuts to their respective sections. 
+If you want to go to the Social Media Marketing section for example, you can click the respective link in the navigation bar.      
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+For reference, this is what the website should look like:  
 
 ```md
-![alt text](assets/images/screenshot.png)
+![screenshot of Horiseon website](starter/assets/images/HoriseonScreenshot.png)
 ```
 
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 
 ## License
-
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+N/A
